@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Yoeees 👋
 
 ## 💻 Full-Stack Developer | Linux Enthusiast
 
@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm a passionate developer with expertise in full-stack de
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -51,8 +52,16 @@ I'm passionate about Linux and open-source technologies. My experience includes:
 I'm currently working on:
 - Advanced Vue.js and Nuxt.js applications
 - Laravel backend optimization
+- Full-stack web application development
 - Improving Linux system administration skills
+- Expanding knowledge in cybersecurity
+- Exploring deep reinforcement learning
 
+## 📫 How to Reach Me
+
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- Email: your.email@example.com
+- Website: [your-website.com](https://your-website.com)
 
 ---
 
