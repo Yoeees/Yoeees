@@ -59,9 +59,8 @@ I'm currently working on:
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your.email@example.com
-- Website: [your-website.com](https://your-website.com)
+- Email: johnwencesponferradadumangcas.com
+
 
 ---
 
