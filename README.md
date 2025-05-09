@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Yoeees! 👋
 
-<!--
-**Yoeees/Yoeees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, learning, and collaborating on exciting projects. Here's a little bit about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🌱 I’m currently exploring new technologies and sharpening my skills.
+- 🔭 I’m working on building innovative and impactful solutions.
+- 🤝 I’m looking to collaborate on open-source projects and community-driven initiatives.
+- 💬 Ask me about programming, tech trends, or just say hi!
+- 🎯 Fun Fact: I’ve been using Linux as my primary OS for a whole semester and I’m getting better at it every day!
+
+---
+
+## 🚀 My Tech Stack
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Express, Django
+- **Tools & Platforms:** Git, GitHub, Docker, AWS, VS Code, Linux
+- **Databases:** MySQL, MongoDB, PostgreSQL
+
+---
+
+## 📊 GitHub Stats
+![Yoeees's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoeees&show_icons=true&theme=radical)
+
+---
+
+
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 😊
