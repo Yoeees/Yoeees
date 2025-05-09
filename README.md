@@ -59,7 +59,7 @@ I'm currently working on:
 
 ## 📫 How to Reach Me
 
-- Email: johnwencesponferradadumangcas.com
+- Email: johnwencesponferradadumangcas@gmail.com
 
 
 ---
