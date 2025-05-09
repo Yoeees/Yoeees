@@ -1,6 +1,6 @@
 # Hello, I'm Yoeees 👋
 
-## 💻 Full-Stack Developer | Linux Enthusiast
+## 💻 Aspring Cyber Security Analyst | Back-end Developer | Linux Enthusiast
 
 Welcome to my GitHub! I'm a passionate developer with expertise in full-stack development and a strong foundation in Linux systems.
 
